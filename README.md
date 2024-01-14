@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀Mini XLite Autoscript By Vinstechmy 🚀
+🚀Mini XLite Autoscript By MarfelVPN 🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
